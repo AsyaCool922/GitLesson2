@@ -4,3 +4,11 @@ Lesson2:
 git branch
 git merge
 git conflict
+
+--------
+
+git clone
+git pull
+git push
+
+git remote add origin <url>
